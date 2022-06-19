@@ -1,0 +1,8 @@
+0-1 BFS (blog: https://cp-algorithms.com/graph/01_bfs.html) (problem: https://vjudge.net/problem/Kattis-battleofhogwarts) 
+2. DFS tree (problems: https://codeforces.com/contest/118/problem/E, https://codeforces.com/contest/19/problem/E)
+3. Bi-coloring (problems: https://cses.fi/problemset/task/1668, https://codeforces.com/contest/776/problem/D) 
+4. Dijkstra (problem: https://cses.fi/problemset/task/1195) 
+5. Number of walks of length K (problem: https://vjudge.net/problem/Gym-103708D)
+6. Bridges and cut nodes (problems: https://lightoj.com/problems/category/articulation) 
+Solve CSES graph problems (https://cses.fi/problemset/). 
+Further reads on https://cp-algorithms.com/ graphs section.
